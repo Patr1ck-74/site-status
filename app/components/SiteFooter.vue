@@ -52,7 +52,7 @@ const { siteIcp, version } = configPublic;
 const linkData = {
   github: "https://github.com/Patr1ck-74/site-status",
   home: "https://patr1ck.qzz.io",
-  email: "leslie.en.x@gmail.com",
+  email: "mailto:leslie.en.x@gmail.com",
 };
 </script>
 
